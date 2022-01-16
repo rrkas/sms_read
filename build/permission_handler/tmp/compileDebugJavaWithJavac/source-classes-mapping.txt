@@ -1,5 +1,0 @@
-com/baseflow/permissionhandler/ServiceManager.java
- com.baseflow.permissionhandler.ServiceManager
- com.baseflow.permissionhandler.ServiceManager$SuccessCallback
-com/baseflow/permissionhandler/ErrorCallback.java
- com.baseflow.permissionhandler.ErrorCallback
